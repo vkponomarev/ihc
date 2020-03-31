@@ -26,7 +26,7 @@ AppAsset::register($this);
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
+    <meta name="yandex-verification" content="355641089d155891" />
     <meta name="description" content="<?= Yii::$app->params['description'] ?>">
     <?=$this->render('/partials/canonical/_canonical');?>
     <?=$this->render('/partials/alternate/_alternate');?>
