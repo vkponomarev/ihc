@@ -53,7 +53,7 @@
                         <a href="/<?= Yii::$app->language ?>/<?= $getUrls['mainUrl'] ?>/<?= $parentCategory['url'] ?>/" class="col-lg-3 col-md-3 col-sm-4 col-xs-6 col-12 main-pages-extended">
                             <div class="plates">
 
-                                <p><img class="plates-img" src="/files/category-icons/<?= $getPagesIcon[$parentCategory['id']]['icon'] ?>" alt="Калькулятор беременности" width="50"></p>
+                                <p><img class="plates-img" src="/files/category-icons/<?= $getPagesIcon[$parentCategory['id']]['icon'] ?>" alt="<?=$parentCategory['plates_title']?>" width="50"></p>
 
                                 <p class="plates-title"><?=$parentCategory['plates_title']?>
                                 </p>

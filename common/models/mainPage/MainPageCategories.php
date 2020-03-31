@@ -29,7 +29,7 @@ class MainPageCategories
 
         //echo '<pre>';
         //var_dump($texts);
-        // print_r($mainPageCategories);
+        //print_r($mainPageCategories);
         //echo '</pre>';
 
         return $mainPageCategories;

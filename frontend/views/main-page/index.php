@@ -38,7 +38,7 @@
                         <a href="/<?= Yii::$app->language ?>/<?= Yii::$app->params['mainPagesArray'][$pageCategory['url']]; ?>/" class="col-lg-3 col-md-3 col-sm-4 col-xs-6 col-12 main-pages-extended">
                             <div class="plates">
 
-                                <p><img class="plates-img" src="/files/category-icons/<?= $getPagesIcon[2]['icon'] ?>" alt="Калькулятор беременности" width="50"></p>
+                                <p><img class="plates-img" src="/files/category-icons/<?= $getPagesIcon[2]['icon'] ?>" alt="<?=$pageCategory['plates_title']?>" width="50"></p>
 
                                 <p class="plates-title"><?=$pageCategory['plates_title']?>
                                 </p>
@@ -53,7 +53,7 @@
                     <a href="/<?= Yii::$app->language ?>/<?= Yii::$app->params['mainPagesArray'][$pageCategory['url']]; ?>/<?= $pageParentCategory['url'] ?>/" class="col-lg-3 col-md-3 col-sm-4 col-xs-6 col-12 main-pages-extended">
                         <div class="plates">
                             <p>
-                                <img class="plates-img" src="/files/category-icons/<?php if (isset($getPagesIcon[$pageParentCategory['id']]['icon'])) echo $getPagesIcon[$pageParentCategory['id']]['icon']; ?>" alt="Калькулятор беременности по месячным" width="50">
+                                <img class="plates-img" src="/files/category-icons/<?php if (isset($getPagesIcon[$pageParentCategory['id']]['icon'])) echo $getPagesIcon[$pageParentCategory['id']]['icon']; ?>" alt="<?= $pageParentCategory['plates_title'] ?>" width="50">
                             </p>
                             <p class="plates-title">
                                 <?= $pageParentCategory['plates_title'] ?>

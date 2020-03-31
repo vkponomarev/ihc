@@ -25,7 +25,7 @@
             </button>
             <a class="navbar-brand dropdown-a-extended brand-link-extended" href="/">
 
-                <img class="brand-image" src="/files/logo1.png" alt="Женский Калькулятор" width="70">
+                <img class="brand-image" src="/files/logo1.png" alt="<?=Yii::t('app','Health')?> <?=Yii::t('app','Calculator')?>" width="70">
 
                 <div class="brand-div"><?=Yii::t('app','Health')?><br>
                     <?=Yii::t('app','Calculator')?></div>
