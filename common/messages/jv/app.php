@@ -1,0 +1,467 @@
+<?php
+
+return [
+    // Яванский индонезия
+    // Common -----------------
+    'Health' => 'Kesehatan',
+    'Calculator' => 'Kalkulator',
+    'Home' => 'Omah',
+
+    'Name' => 'Jeneng',
+    'Text' => 'Teks',
+    'Send' => 'Kirim',
+
+    'Result' => 'Asil',
+    'Calculate' => 'Hitung',
+    'from' => 'saka',
+    'to' => 'menyang',
+    'Embed calculator' => 'Kalkulator nampilake',
+    'Embed on your website' => 'Embed ing situs web sampeyan',
+    'Choose calculator:' => 'Pilih kalkulator:',
+    'Calculator title' => 'Judhul kalkulator',
+
+    // Common -----------------
+
+    // footer -----------------
+    'Read' => 'Wacan',
+    'Help' => 'Pitulung',
+    'Contacts' => 'Kontak',
+    'Cookie info' => 'Informasi cookie',
+    'Privacy policy' => 'Kebijakan privasi',
+    'Translations' => 'Terjemahan',
+    'Donations' => 'Sumbangan',
+    'Write to us' => 'Tulis kanggo kita',
+    // footer -----------------
+
+
+
+    'Choose gender:' => 'Jinis jinis:',
+    'Women' => 'Wanita',
+    'Men' => 'Pria',
+    'Weight (kilogram):' => 'Bobot (kilogram):',
+    'Height (centimeter):' => 'Dhuwur (sentimeter):',
+    'Age:' => 'Umur:',
+    'Age (1-80):' => 'Umur (1-80):',
+    'Age (1-90):' => 'Umur (1-90):',
+    'Age (18-90):' => 'Umur (18-90):',
+    'Age in years:' => 'Umur ing pirang-pirang taun:',
+    'Age in months:' => 'Umur ing pirang-pirang wulan:',
+    'Age (12-17):' => 'Umur (12-17):',
+
+
+
+    'Goal:' => 'Gol:',
+
+    'Weight maintenance' => 'Pangopènan bobot',
+    'Lose weight' => 'Ilang bobot',
+    'Gain muscle mass' => 'Nimbulake massa otot',
+
+    'Exercise stress:' => 'Latihan stres:',
+
+    'Basic metabolism' => 'Metabolisme dhasar',
+    'Minimal or no physical exertion' => 'Minimal utawa ora duwe latihan fisik',
+    'Fitness classes 3 times a week' => 'Kelas fitness 3 kaping seminggu',
+    'Fitness classes 5 times a week' => 'Kelas fitness 5 kaping seminggu',
+    'Intense physical activity 5 times a week' => 'Kegiatan fisik sing intensif 5 kali seminggu',
+    'Every day fitness' => 'Saben dina fitness',
+    'Intensively or twice daily every day' => 'Intensif utawa kaping pindho saben dina',
+    'Daily exercise plus physical work' => 'Olahraga saben dina ditambahake karya fisik',
+
+    'Weight maintenance according to Miffin St. Jeor formula:' => 'Pangopènan bobot miturut rumus Miffin St. Jeor:',
+    'Weight maintenance according to Harris Benedict formula:' => 'Pangopènan bobot miturut rumus Harris Benedict:',
+    'Loosing weight according to Miffin St. Jeor formula:' => 'Nyuda bobot miturut rumus Miffin St. Jeor:',
+    'Loosing weight according to Harris Benedict formula:' => 'Nyuda bobot miturut rumus Harris Benedict:',
+    'Weight gain according to Miffin St. Jeor formula:' => 'Mundhakake bobot miturut rumus Miffin St. Jeor:',
+    'Weight gain according to Harris Benedict formula:' => 'Mundhakake bobot miturut rumus Harris Benedict:',
+
+    'calories' => 'kalori',
+
+    'Weight maintenance 30% protein, 30% fat, 40% carbohydrate' => 'Pangopènan bobot 30% protein, 30% lemak, karbohidrat 40%',
+    'Lose weight 45% protein, 35% fat, 20% carbohydrates' => 'Mundhut bobot 45% protein, lemak 35%, karbohidrat 20%',
+    'Gain muscle mass 30% protein, 15% fat, 55% carbohydrates' => 'Massa otot entuk 30% protein, lemak 15%, karbohidrat 55%',
+
+    'Activity:' => 'Kegiatan:',
+
+    'Brainwork' => 'Pakaryan otak',
+    'Light physical labor' => 'Tenaga kerja sing ringan',
+    'Average physical labor' => 'Buruh fisik rata-rata',
+    'Hard physical labor' => 'Buruh fisik sing angel',
+    'Particularly hard physical labor' => 'Khusus buruh fisik',
+
+    'Average protein intake according to weight:' => 'Asupan protein rata-rata miturut bobot:',
+    'Daily intake protein according to imt for women:' => 'Pengambilan protein saben dina miturut img kanggo wanita:',
+    'Daily intake protein according to imt for men:' => 'Pengambilan protein saben dina sesuai karo wong lanang:',
+    'Daily intake protein according to activity for women:' => 'Pengambilan protein saben dina miturut kegiatan kanggo wanita:',
+    'Daily intake protein according to activity for men:' => 'Pengambilan protein saben dina miturut kegiyatan kanggo pria:',
+
+
+    'Exercise Time:' => 'Wektu Latihan:',
+
+    '1 hour' => '1 jam',
+    '2 hours' => '2 jam',
+    '3 hours' => '3 jam',
+    '4 hours' => '4 jam',
+
+    'Average water consumption:' => 'Konsumsi banyu rata-rata:',
+
+    'Average nuts intake:' => 'Asupan kacang rata:',
+    'Walnut:' => 'Walnut:',
+    'Pine nut:' => 'Pinus pincang:',
+    'Cashew:' => 'Cashew:',
+    'Pistachios:' => 'Pistachios:',
+    'Peanut:' => 'Kacang:',
+    'Almond:' => 'Almond:',
+    'Hazelnut:' => 'Hazelnut:',
+
+    'Average salt daily intake:' => 'Pengambilan uyah saben dina:',
+
+    'Average sugar daily intake:' => 'Pengambilan gula saben dina:',
+    'Maximum sugar daily intake:' => 'Gula maksimal saben dina:',
+
+    'Average iron daily intake:' => 'Intake wesi saben rata:',
+    'Pregnant average iron daily intake:' => 'Intake saben wesi saben meteng:',
+    'Smoke and alcohol users average iron daily intake:' => 'Pangguna kumelun lan alkohol rata-rata asupan saben wesi:',
+
+    'Average daily intake of vitamin C:' => 'Rata-rata asupan vitamin C saben dina:',
+    'Average daily intake of vitamin C for colds:' => 'Rata-rata intine vitamin C saben dina kanggo kadhemen:',
+    'Average daily intake of vitamin C during pregnancy:' => 'Pengambilan vitamin C saben dina nalika meteng:',
+    'Average daily vitamin C intake for athletes:' => 'Dianggo saben dina vitamin C saben atlit:',
+    'Average daily intake of vitamin C for lactation:' => 'Rata-rata intake vitamin C saben lactation:',
+
+    'Average daily intake of vitamin D:' => 'Dianggo saben dina vitamin D:',
+    'Average daily intake of vitamin D during pregnancy:' => 'Rata-rata intake vitamin D saben dina nalika meteng:',
+    'Average daily intake of vitamin D for lactation:' => 'Dianggo saben vitamin vitamin D saben dina kanggo laktasi:',
+
+    'Average daily intake of vitamin D3:' => 'Rata-rata intake vitamin D3 saben dina:',
+    'Average daily intake of vitamin D3 during pregnancy:' => 'Rata-rata intake vitamin D3 saben dina nalika meteng:',
+    'Average daily intake of vitamin D3 for lactation:' => 'Rata-rata intake vitamin D3 saben dina kanggo lactation:',
+
+    'Average daily intake of vitamin E:' => 'Rata-rata intake vitamin E saben dina:',
+    'Average daily intake of vitamin E during pregnancy:' => 'Dianggo saben vitamin vitamin E saben dina nalika meteng:',
+    'Average daily intake of vitamin E for lactation:' => 'Dianggo saben vitamin vitamin E saben dina kanggo lactation:',
+
+    'Average daily intake of vitamin B12:' => 'Dianggo saben dina vitamin B12:',
+    'Average daily intake of vitamin B12 during pregnancy:' => 'Rata-rata intake vitamin B12 saben dina nalika meteng:',
+    'Average daily intake of vitamin B12 for lactation:' => 'Rata-rata asupan vitamin B12 saben dina kanggo lactation:',
+    'Average daily intake of vitamin B12 during menopause:' => 'Rata-rata intake vitamin B12 saben menopaus:',
+    'Average daily intake of vitamin B12 during hard work:' => 'Rata-rata asupan vitamin B12 saben dina sajrone kerja keras:',
+    'Average daily intake of vitamin B12 during intense turnings:' => 'Rata-rata asupan vitamin B12 saben dina sajrone giliran kuat:',
+
+    'Average daily intake of vitamin Omega 3:' => 'Rata-rata intake vitamin Omega 3 saben dina:',
+    'Average daily intake of vitamin Omega 3 during pregnancy:' => 'Rata-rata intake vitamin Omega 3 saben dina nalika meteng:',
+    'Average daily intake of vitamin Omega 3 for lactation:' => 'Rata-rata intake vitamin Omega 3 saben dina kanggo lactation:',
+    'Average daily intake of vitamin Omega 3 during hard work:' => 'Rata-rata intake vitamin Omega 3 saben dina sajrone kerja keras:',
+    'Average daily intake of vitamin Omega 3 during intense turnings:' => 'Rata-rata asupan vitamin Omega 3 saben dina sajrone giliran kuat:',
+
+    'Average daily intake of Zinc:' => 'Pengambilan saben dina saka Zinc:',
+    'Average daily intake of Zinc during pregnancy:' => 'Pengambilan Zinc saben dina saben dina nalika meteng:',
+    'Average daily intake of Zinc for lactation:' => 'Pengambilan Zinc saben dina rata-rata kanggo laktasi:',
+
+    'Average daily intake of Iodine:' => 'Pengambilan saben dina saka Iodine:',
+    'Average daily intake of Iodine during pregnancy:' => 'Pengambilan Iodin saben dina nalika meteng:',
+    'Average daily intake of Iodine for lactation:' => 'Pengambilan Iodine saben dina rata-rata kanggo laktasi:',
+    'Average daily intake of Iodine during intense turnings:' => 'Pengambilan Iodine saben dina rata-rata sajrone ganti rasane:',
+
+    'Average daily intake of Magnesium:' => 'Dianggo saben Magnesium saben dina:',
+    'Average daily intake of Magnesium during pregnancy:' => 'Pengambilan saben dina Magnesium nalika meteng:',
+    'Average daily intake of Magnesium for lactation:' => 'Rata-rata asupan Magnesium saben dina kanggo lactation:',
+
+    'Average daily intake of Potassium:' => 'Pengambilan saben kalium ing:',
+    'Average daily intake of Potassium during pregnancy:' => 'Pengambilan saben Kalium saben intine:',
+    'Average daily intake of Potassium for lactation:' => 'Pengambilan saben kalium kanggo lactation:',
+    'Average daily intake of Potassium during intense turnings:' => 'Pengambilan saben Kalium saben intine:',
+
+    'Average daily intake of Calcium:' => 'Rata-rata asupan kalsium saben dina:',
+    'Average daily intake of Calcium during pregnancy:' => 'Pengambilan kalsium saben dina nalika meteng:',
+    'Average daily intake of Calcium for lactation:' => 'Pengambilan kalsium saben dina kanggo lactation:',
+
+    'Average daily intake of Folic Acid:' => 'Pengambilan asam folat saben dina:',
+    'Average daily intake of Folic Acid during pregnancy:' => 'Pengambilan asam folat saben dina nalika meteng:',
+    'Average daily intake of Folic Acid for lactation:' => 'Pengambilan asam folat saben dina saben dina:',
+
+
+    'Average heart rate:' => 'Tingkat jantung rata-rata:',
+    'Average heart rate in a dream:' => 'Rata-rata denyut jantung ing ngimpi:',
+    'First trimester average heart rate (1-13 weeks):' => 'Tingkat jantung rata-rata trimester kaping pisanan (1-13 minggu):',
+    'Second trimester average heart rate (14-26 weeks):' => 'Tingkat jantung rata-rata trimester kaloro (14-26 minggu):',
+    'Third trimester average heart rate (27-40 weeks):' => 'Tingkat jantung rata-rata trimester kaping telu (27-40 minggu):',
+    'Average heart rate when walking in men:' => 'Rata-rata denyut jantung nalika mlaku ing wong:',
+    'Average heart rate when walking in women:' => 'Rata-rata denyut jantung nalika mlaku ing wanita:',
+    'Average heart rate during training:' => 'Tingkat jantung rata-rata sajrone latihan:',
+
+    'middle:' => 'tengah:',
+    'minimum:' => 'minimal:',
+    'maximum:' => 'maksimal:',
+
+    '30 minutes:' => '30 menit:',
+    '60 minutes:' => '60 menit:',
+    '90 minutes:' => '90 menit:',
+    '120 minutes:' => '120 menit:',
+
+    'warm up:' => 'anget:',
+    'easy activity:' => 'kegiatan gampang:',
+    'average activity:' => 'kegiatan rata-rata:',
+    'intense load:' => 'beban sing kuat:',
+    'increased load:' => 'tambah mbukak:',
+    'maximum load:' => 'beban maksimal:',
+
+    'Average blood pressure in men:' => 'Tekanan getih rata-rata ing wong:',
+    'Average blood pressure in women:' => 'Tekanan getih rata-rata ing wanita:',
+    'Up to 4 weeks of the first trimester:' => 'Nganti 4 minggu ing trimester pisanan:',
+    'Up to 12 weeks of the first trimester:' => 'Nganti 12 minggu saka trimester pisanan:',
+    'Up to 26 weeks (second trimester):' => 'Nganti 26 minggu (trimester kaloro):',
+    'Up to 29 weeks (beginning of the third trimester):' => 'Nganti 29 minggu (wiwitan trimester kaping telu):',
+    'Up to 30 weeks of the third trimester:' => 'Nganti 30 minggu saka trimester kaping telu:',
+    'Up to 40 weeks (delivery):' => 'Nganti 40 minggu (pangiriman):',
+
+    'Average eye pressure in men:' => 'Tekanan mripat rata-rata ing wong:',
+    'Average eye pressure in women:' => 'Tekanan mripat rata-rata ing wanita:',
+
+    'Physique:' => 'Fisiologis:',
+    'Normosthenic' => 'Normosthenic',
+    'Hypersthenic' => 'Hypersthenic',
+    'Asthenic' => 'Asthenic',
+
+    'Average weight rate:' => 'Rata-rata tingkat bobot:',
+    'Average weight according to Brock formula:' => 'Bobot rata-rata miturut rumus Brock:',
+    'Average weight according to Nagler formula:' => 'Bobot rata-rata miturut formula Nagler:',
+    'Average leg length:' => 'Dawane sikil rata-rata:',
+    'Average leg length relative to physique:' => 'Dawane sikil rata-rata relatif saka fase fisik:',
+
+    'Average height for this age:' => 'Dhuwur rata-rata kanggo umur iki:',
+    'Average weight for this age:' => 'Bobot rata-rata kanggo umur iki:',
+    'Average head size for this age:' => 'Ukuran sirah sing rata-rata kanggo umur iki:',
+
+    'Average height for boys:' => 'Rata-rata bocah lanang:',
+    'Average height for girls:' => 'Sing paling dhuwur kanggo bocah-bocah wadon:',
+    'small:' => 'cilik:',
+    'tall:' => 'dhuwur:',
+
+    'Average humidity rate:' => 'Rata-rata tingkat asor:',
+    'Average humidity rate for growing plants:' => 'Rata-rata tingkat asor kanggo tanduran sing tuwuh:',
+    'Average humidity rate where you spend time:' => 'Tingkat kelembapan rata-rata ing ngendi sampeyan nggunakake wektu:',
+    'Average winter humidity rate:' => 'Tingkat kelembapan musim rata-rata:',
+    'Average summer humidity rate:' => 'Tingkat kelembapan musim panas rata-rata:',
+    'Average humidity rate for childrens:' => 'Tingkat kelembapan rata-rata kanggo bocah-bocah:',
+    'Average humidity for the apartment:' => 'Kelembapan rata-rata kanggo apartemen:',
+    'For the bedroom:' => 'Kanggo kamar turu:',
+    'In the kitchen:' => 'Ing pawon:',
+    'In the office:' => 'Ing kantor:',
+    'Children\'s playroom:' => 'Ruangan dolanan bocah:',
+    'In the shower or bath:' => 'Ing pancuran utawa adus:',
+    'For an entrance hall:' => 'Kanggo balai mlebu:',
+    'Living room, guest room, lounge, dining room:' => 'Kamar, kamar tamu, ruang tamu, ruang makan:',
+    'In the toilet, bathroom:' => 'Ing jamban, jedhing:',
+
+    'Average axillary temperature rate:' => 'Rata-rata suhu suhu axillary:',
+    'Average oral temperature rate:' => 'Rata-rata suhu suhu lisan:',
+    'Average rectal temperature rate:' => 'Tingkat suhu rektum rata-rata:',
+    'Average tympanic temperature rate:' => 'Tingkat suhu tympanic rata-rata:',
+    'Average internal organs temperature rate:' => 'Tingkat suhu internal organ rata-rata:',
+
+
+    'Average amount of blood in a person:' => 'Rata-rata jumlah getih ing wong:',
+    'Average amount of blood in a woman:' => 'Rata-rata jumlah getih ing wong wadon:',
+    'Average amount of blood in a woman during the third trimester of pregnancy:' => 'Rata-rata jumlah getih ing wong wadon sajrone trimester katelu kehamilan:',
+    'Average amount of blood released during menstruation (5-7 days):' => 'Rata-rata jumlah getih sing dibukak nalika haid (5-7 dina):',
+    'Average amount of blood released during menstruation (1 day):' => 'Rata-rata jumlah getih sing dibukak nalika haid (1 dina):',
+    'Average amount of blood in a man:' => 'Rata-rata jumlah getih ing wong:',
+
+    'Exercise time:' => 'Wektu ngleksanani:',
+
+    'Average water consumption per day:' => 'Konsumsi banyu saben dina:',
+    'According to formula V=M/450*14:' => 'Miturut rumus V = M / 450 * 14:',
+    'According to formula 4% of body weight:' => 'Miturut rumus 4% bobot awak:',
+    'According to formula 20 milliliters on 1 kilogram of body weight:' => 'Miturut rumus 20 mililiter ing 1 kilogram bobot awak:',
+    'According to formula V=(M*0,03) + (T*0,4):' => 'Miturut rumus V = (M * 0,03) + (T * 0,4):',
+    'According to formula V=(M*0,04) + (T*0,6):' => 'Miturut rumus V = (M * 0,04) + (T * 0,6):',
+    '1 day:' => '1 dina:',
+    '10 days:' => '10 dina:',
+    '3 months:' => '3 wulan:',
+    '6 months:' => '6 wulan:',
+    '9 months:' => '9 wulan:',
+
+    'Average amount of water in body:' => 'Rata-rata jumlah banyu ing awak:',
+
+    'Season:' => 'Musim:',
+    'Winter' => 'Mangsa',
+    'Summer' => 'Musim panas',
+    'Average temperature optimal / acceptable:' => 'Suhu optimal / bisa ditampa:',
+    'Living room:' => 'Kamar:',
+    'Living room in areas with temperatures below 31 degrees:' => 'Kamar ing wilayah kanthi suhu ngisor 31 derajat:',
+    'Kitchen:' => 'Pawon:',
+    'Restroom:' => 'Restor:',
+    'Bathtub, WC:' => 'Bathtub, WC:',
+    'Recreation and training facilities:' => 'Fasilitas latihan lan latihan:',
+    'Interroom corridor:' => 'Koridor ruangan:',
+    'Entrance Hall, staircase:' => 'Papan mlebu, tangga:',
+    'Pantries:' => 'Celengan:',
+
+
+    'Average temperature for childrens:' => 'Suhu rata-rata kanggo bocah-bocah:',
+    'Average temperature for pre school institutions optimal / acceptable:' => 'Suhu rata-rata kanggo institusi sekolah sing paling optimal / bisa ditampa:',
+    'Group locker room and toilet for younger groups' => 'Kamar lemari klompok lan jamban kanggo kelompok sing luwih enom',
+    'Group locker room and toilet for preschool groups' => 'Kamar lemari klambi lan jamban klompok kanggo prasekolah',
+    'Sleeping for younger groups' => 'Turu kanggo grup sing luwih enom',
+    'Sleeping for preschool groups' => 'Turu klompok prasekolah',
+    'Lobby, staircase' => 'Lobby, tangga',
+    'Average temperature for sleep:' => 'Suhu rata-rata kanggo turu:',
+    'Comfortable sleep temperature in pajamas and under the blankets:' => 'Suhu turu sing apik ing piyama lan ngisor kemul:',
+    'Comfortable sleep temperature without pajamas and blankets:' => 'Suhu turu sing gampang tanpa piyama lan kemul:',
+    'Average temperature for newborns:' => 'Suhu rata-rata kanggo bayi sing anyar:',
+    'Minimum water temperature:' => 'Suhu banyu minimal:',
+    'Comfortable water temperature:' => 'Suhu banyu sing nyenengake:',
+    'Duration of swimming depending on water temperature:' => 'Duration nglangi gumantung karo suhu banyu:',
+
+    'Your birthday:' => 'Ulang taun:',
+    'Date of calculation:' => 'Tanggal pitungan:',
+
+    'Basic biorhythms:' => 'Biologi irama dhasar:',
+    'physical biorhythm:' => 'biorografi fisik:',
+    'emotional biorhythm:' => 'biorografi emosional:',
+    'intellectual biorhythm:' => 'biorografi intelektual:',
+    'Additional biorhythms:' => 'Biologi irama tambahan:',
+    'spiritual biorhythm:' => 'biorografi spiritual:',
+    'intuition biorhythm:' => 'biologi irama intuisi:',
+    'knowledge biorhythm:' => 'biorografi kawruh:',
+    'aesthetic biorhythm:' => 'bioretik estetika:',
+
+    'Average life expectancy of grandparents:' => 'Pengarep-arep urip sedulure simbah:',
+    'What education do you have:' => 'Apa pendidikan sampeyan duwe:',
+    'Academic degree' => 'Gelar akademik',
+    'Higher education' => 'Pendidikan sing luwih dhuwur',
+    'Secondary education' => 'Pendhidhikan sekolah menengah',
+    'Incomplete secondary education' => 'Pendhidhikan sekunder sing ora lengkap',
+    'Employment:' => 'Pakaryan:',
+    'Career prospects' => 'Prospek karir',
+    'Work in the specialty' => 'Makarya ing khusus',
+    'Work not on a specialty' => 'Bisa ora khusus',
+    'Shift work' => 'Kerjo gentenan',
+    'Hobby:' => 'Hobi:',
+    'Yes' => 'Ya',
+    'Not' => 'Ora',
+    'Are you hot-tempered?:' => 'Apa sampeyan panas?',
+    'Living in accordance with your income?:' => 'Urip sesuai karo penghasilan ?:',
+    'Do you have any pets?:' => 'Apa sampeyan duwe pets?:',
+    'Do you have free time?:' => 'Apa sampeyan duwe wektu gratis?:',
+    'You are working:' => 'Sampeyan bisa digunakake:',
+    '40 hours a week' => '40 jam seminggu',
+    'Irregular working hours' => 'Jam kerja sing ora teratur',
+    'Do you eat regularly?:' => 'Apa sampeyan mangan kanthi rutin ?:',
+    'Do you eat seafood?:' => 'Sampeyan mangan panganan laut?:',
+    'Do you eat vegetables / fruits?:' => 'Apa sampeyan mangan sayuran / woh-wohan?:',
+    'Do you drink a glass of wine a day?:' => 'Apa sampeyan ngombe segelas gelas sedina ?:',
+    'Do you drink strong alcohol?:' => 'Apa sampeyan ngombe alkohol sing kuwat ?:',
+    'On holidays' => 'Ing preinan',
+    'Regularly' => 'Ajeg',
+    'Do you smoke?:' => 'Apa ngrokok ?:',
+    'Do you play sports?:' => 'Apa sampeyan main olahraga?:',
+    'Sometimes' => 'Kadhangkala',
+    'Do you walk?:' => 'Apa sampeyan mlaku?',
+    'How much do you sleep?:' => 'Carane akeh sampeyan turu?:',
+    '5-9 hours' => '5-9 jam',
+    'less than 5 hours' => 'kurang saka 5 jam',
+    'more than 10 hours' => 'luwih saka 10 jam',
+    'Do you take sick leave?:' => 'Apa sampeyan ninggalake cuti?',
+    'Your pressure?:' => 'Tekanan sampeyan?:',
+    'Norm' => 'Unggah ungguh',
+    'Above norm' => 'Ndhuwur pakewuh',
+    'Below norm' => 'Ing ngisor iki norma',
+    'Your weight?:' => 'Bobot sampeyan?:',
+    'Do you regularly undergo a medical examination?:' => 'Apa sampeyan kudu ngalami ujian medis ?:',
+    'Is your gut working fine?:' => 'Apa usus sampeyan apik?',
+    'Do you need sleeping pills or antidepressants?:' => 'Apa sampeyan butuh pil turu utawa antidepresan ?:',
+    'Average life expectancy:' => 'Pengarep-arep urip rata-rata:',
+
+
+    'Number of cigarettes per day:' => 'Jumlah rokok saben dina:',
+    'Smoking experience, years:' => 'Pengalaman ngrokok, pirang-pirang taun:',
+    'Smoking index:' => 'Indeks ngrokok:',
+    'If the smoking index is greater than 10, then this is a reliable risk factor for the development of chronic obstructive pulmonary disease.' => 'Yen indeks ngrokok luwih saka 10, mula iki minangka faktor risiko sing bisa dipercaya kanggo penyakit paru-paru obstruktif kronis.',
+
+
+    'How soon after you wake up do you smoke your first cigarette?:' => 'Ora cepet sawise sampeyan tangi, sampeyan ngrokok rokok pisanan sampeyan ?:',
+    'During the first 5 minutes' => 'Sajrone 5 menit pisanan',
+    'Within 6-30 minutes' => 'Ing 6-30 menit',
+    'Is it difficult for you to refrain from smoking in places where smoking is prohibited?:' => 'Apa angel sampeyan nolak ngrokok ing panggonan sing dilarang ngrokok ?:',
+    'Which cigarette can you easily refuse?:' => 'Rokok sing bisa gampang ditolak?:',
+    'First cigarette in the morning' => 'Rokok pisanan esuk',
+    'All other cigarettes' => 'Kabeh rokok liyane',
+    'How many cigarettes do you smoke per day?:' => 'Pira rokok sing sampeyan ngrokok saben dina ?:',
+    '10 or less' => '10 utawa kurang',
+    '31 and more' => '31 lan liyane',
+    'Do you smoke more often in the early hours of the morning after waking up than during the day?:' => 'Apa sampeyan luwih sering ngrokok nalika jam esuk sawise tangi tinimbang awan ?:',
+    'Do you smoke if you are very sick and forced to stay in bed all day?:' => 'Apa ngrokok yen sampeyan lara banget lan kepeksa tetep turu?',
+    'Estimated smoking addiction:' => 'Anggun kecanduan udud:',
+
+    '0-2 - very weak dependence' => '0-2 - katergantungan banget',
+    '3-4 - weak dependence' => '3-4 - katergantungan banget',
+    '5 - average dependence' => '5 - katergantungan rata-rata',
+    '6-7 - high dependence' => '6-7 - katergantungan dhuwur',
+    '8-10 - very high dependence' => '8-10 - katergantungan banget',
+
+
+    'The cost of a pack of cigarettes:' => 'Biaya sak rokok:',
+    'How much nicotine is in a cigarette (milligrams):' => 'Pira nikotin ing rokok (miligram):',
+    'The number of cigarettes smoked:' => 'Cacahe rokok:',
+    'The number of packs of smoked cigarettes:' => 'Cacahe rokok sing ngrokok:',
+    'Amount of nicotine received:' => 'Jumlah nikotin ditampa:',
+    'Total Cost:' => 'Gunggunge Biaya:',
+    'Cost for one year:' => 'Biaya kanggo setaun:',
+    'Cost for one month:' => 'Biaya siji wulan:',
+    'Cost for one week:' => 'Biaya siji minggu:',
+    'Cost per day:' => 'Biaya saben dina:',
+
+
+    'Time after drinking alcohol (hours):' => 'Wektu sawise ngombe alkohol (jam):',
+    'Drink 1 (%):' => 'Ngombe 1 (%):',
+    'Drink 1 (milliliters):' => 'Ngombe 1 (mililiter):',
+    'Drink 2 (%):' => 'Ngombe 2 (%):',
+    'Drink 2 (milliliters):' => 'Ngombe 2 (mililiter):',
+    'Drink 3 (%):' => 'Ngombe 3 (%):',
+    'Drink 3 (milliliters):' => 'Ngombe 3 (mililiter):',
+    'Drink 4 (%):' => 'Ngombe 4 (%):',
+    'Drink 4 (milliliters):' => 'Ngombe 4 (mililiter):',
+    'Alcohol (%):' => 'Alkohol (%):',
+    'Urine alcohol concentration (%):' => 'Konsentrasi alkohol ing urin (%):',
+    'Maximum alcohol removal time:' => 'Wektu ngilangi alkohol maksimal:',
+    'Middle alcohol removal time:' => 'Wektu ngilangi alkohol ing tengah:',
+    'Minimum alcohol removal time:' => 'Wektu ngilangi alkohol paling sithik:',
+    'Stomach:' => 'Nyeri:',
+    'Full' => 'Pepak',
+    'Empty' => 'Kuwat',
+    'less than 0.3 ‰ - lack of influence of alcohol' => 'kurang saka 0,3 ‰ - kurang pengaruh alkohol',
+    'from 0.3 to 0.5 ‰ - slight effect of alcohol' => 'saka 0,3 nganti 0,5 ‰ - efek alkohol sing sithik',
+    'from 0.5 to 1.5 ‰ - slight intoxication' => 'saka 0,5 nganti 1,5 ‰ - intoxication rada',
+    'from 1.5 to 2.5 ‰ - medium intoxication' => 'saka 1,5 nganti 2,5 ‰ - intoxication medium',
+    'from 2.5 to 3.0 ‰ - severe intoxication' => 'saka 2,5 nganti 3,0 ‰ - intoxication abot',
+    'from 3.0 to 5.0 ‰ - severe alcohol poisoning, death may occur' => 'saka 3.0 nganti 5.0 ‰ - keracunan alkohol sing abot, bisa uga kedadeyan mati',
+    'from 5.0 to 6.0 ‰ - fatal poisoning' => 'saka 5.0 nganti 6.0 ‰ - keracunan fatal',
+
+    'seconds' => 'detik',
+    'hours' => 'jam',
+    'days' => 'dina',
+    'years' => 'taun',
+
+
+    // measures
+    'kilogram' => 'kilogram',
+    'kg' => 'kilogram',
+    'gram' => 'gram',
+    'gm' => 'gram',
+    'milligram' => 'milligram',
+    'micrograms' => 'mikrogram',
+
+
+    'centimeter' => 'sentimeter',
+    'cm' => 'sentimeter',
+
+    'liters' => 'liter',
+
+    '{n,plural, one{# liter} few{# liters} other{# liters}}' => '{n,plural, one{# liter} few{# liter} other{# liter}}',
+
+    '{n,plural, one{# piece} few{# pieces} other{# pieces}}' => '{n,plural, one{# potongan} few{# potongan} other{# potongan}}',
+
+    'minutes' => 'menit',
+];
+

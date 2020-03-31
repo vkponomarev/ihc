@@ -1,0 +1,467 @@
+<?php
+
+return [
+    // Корейский
+    // Common -----------------
+    'Health' => '건강',
+    'Calculator' => '계산자',
+    'Home' => '집',
+
+    'Name' => '이름',
+    'Text' => '본문',
+    'Send' => '보내다',
+
+    'Result' => '결과',
+    'Calculate' => '계산하다',
+    'from' => '...에서',
+    'to' => '에',
+    'Embed calculator' => '내장 계산기',
+    'Embed on your website' => '귀하의 웹 사이트에 포함',
+    'Choose calculator:' => '계산기를 선택하십시오 :',
+    'Calculator title' => '계산기 제목',
+
+    // Common -----------------
+
+    // footer -----------------
+    'Read' => '읽다',
+    'Help' => '도움',
+    'Contacts' => '콘택트 렌즈',
+    'Cookie info' => '쿠키 정보',
+    'Privacy policy' => '개인 정보 정책',
+    'Translations' => '번역',
+    'Donations' => '기부금',
+    'Write to us' => '우리에게 쓰기',
+    // footer -----------------
+
+
+
+    'Choose gender:' => '성별 :',
+    'Women' => '여자들',
+    'Men' => '남자들',
+    'Weight (kilogram):' => '무게 (킬로그램) :',
+    'Height (centimeter):' => '높이 (센티미터) :',
+    'Age:' => '나이:',
+    'Age (1-80):' => '나이 (1-80) :',
+    'Age (1-90):' => '나이 (1-90) :',
+    'Age (18-90):' => '나이 (18-90) :',
+    'Age in years:' => '년의 나이 :',
+    'Age in months:' => '개월의 나이 :',
+    'Age (12-17):' => '나이 (12-17 세) :',
+
+
+
+    'Goal:' => '골:',
+
+    'Weight maintenance' => '무게 유지',
+    'Lose weight' => '살을 빼다',
+    'Gain muscle mass' => '근육량 확보',
+
+    'Exercise stress:' => '운동 스트레스 :',
+
+    'Basic metabolism' => '기본 대사',
+    'Minimal or no physical exertion' => '최소한의 육체 노동',
+    'Fitness classes 3 times a week' => '일주일에 3 번 휘트니스 교실',
+    'Fitness classes 5 times a week' => '일주일에 5 번 휘트니스 교실',
+    'Intense physical activity 5 times a week' => '일주일에 5 번 강렬한 신체 활동',
+    'Every day fitness' => '매일 피트니스',
+    'Intensively or twice daily every day' => '매일 집중적으로 또는 두 번 매일',
+    'Daily exercise plus physical work' => '매일 운동과 육체 노동',
+
+    'Weight maintenance according to Miffin St. Jeor formula:' => 'Miffin St. Jeor 공식에 따른 중량 유지 보수 :',
+    'Weight maintenance according to Harris Benedict formula:' => 'Harris Benedict 공식에 따른 중량 유지 보수 :',
+    'Loosing weight according to Miffin St. Jeor formula:' => 'Miffin St. Jeor 공식에 따른 무게 감량 :',
+    'Loosing weight according to Harris Benedict formula:' => '해리스 베네딕트 공식에 따른 무게 감량 :',
+    'Weight gain according to Miffin St. Jeor formula:' => 'Miffin St. Jeor 공식에 따른 체중 증가 :',
+    'Weight gain according to Harris Benedict formula:' => '해리스 베네딕트 공식에 따른 체중 증가 :',
+
+    'calories' => '칼로리',
+
+    'Weight maintenance 30% protein, 30% fat, 40% carbohydrate' => '체중 유지 30 % 단백질, 30 % 지방, 40 % 탄수화물',
+    'Lose weight 45% protein, 35% fat, 20% carbohydrates' => '체중 감량 45 % 단백질, 35 % 지방, 20 % 탄수화물',
+    'Gain muscle mass 30% protein, 15% fat, 55% carbohydrates' => '근육량 30 % 단백질, 15 % 지방, 55 % 탄수화물 섭취',
+
+    'Activity:' => '활동:',
+
+    'Brainwork' => '브레인 워크',
+    'Light physical labor' => '가벼운 육체 노동',
+    'Average physical labor' => '평균 육체 노동',
+    'Hard physical labor' => '힘든 육체 노동',
+    'Particularly hard physical labor' => '특히 어려운 육체 노동',
+
+    'Average protein intake according to weight:' => '체중에 따른 평균 단백질 섭취량 :',
+    'Daily intake protein according to imt for women:' => '여성을위한 imt에 따른 일일 섭취 단백질 :',
+    'Daily intake protein according to imt for men:' => '남성용 imt에 따른 일일 섭취 단백질 :',
+    'Daily intake protein according to activity for women:' => '여성의 활동에 따른 일일 섭취 단백질 :',
+    'Daily intake protein according to activity for men:' => '남성의 활동에 따른 일일 섭취 단백질 :',
+
+
+    'Exercise Time:' => '운동 시간 :',
+
+    '1 hour' => '1 시간',
+    '2 hours' => '2 시간',
+    '3 hours' => '3 시간',
+    '4 hours' => '4 시간',
+
+    'Average water consumption:' => '평균 물 소비량 :',
+
+    'Average nuts intake:' => '평균 견과류 섭취량 :',
+    'Walnut:' => '호두:',
+    'Pine nut:' => '잣 :',
+    'Cashew:' => '캐슈:',
+    'Pistachios:' => '피스타치오:',
+    'Peanut:' => '땅콩:',
+    'Almond:' => '아몬드:',
+    'Hazelnut:' => '개암:',
+
+    'Average salt daily intake:' => '일일 평균 소금 섭취량 :',
+
+    'Average sugar daily intake:' => '일일 평균 설탕 섭취량 :',
+    'Maximum sugar daily intake:' => '최대 설탕 일일 섭취량 :',
+
+    'Average iron daily intake:' => '평균 철분 섭취량 :',
+    'Pregnant average iron daily intake:' => '임신 평균 철분 섭취량 :',
+    'Smoke and alcohol users average iron daily intake:' => '연기 및 알코올 사용자의 평균 철분 섭취량 :',
+
+    'Average daily intake of vitamin C:' => '비타민 C의 일일 평균 섭취량 :',
+    'Average daily intake of vitamin C for colds:' => '감기에 대한 평균 비타민 C 섭취량 :',
+    'Average daily intake of vitamin C during pregnancy:' => '임신 중 비타민 C의 일일 평균 섭취량 :',
+    'Average daily vitamin C intake for athletes:' => '운동 선수의 평균 일일 비타민 C 섭취량 :',
+    'Average daily intake of vitamin C for lactation:' => '수유에 대한 비타민 C의 일일 평균 섭취량 :',
+
+    'Average daily intake of vitamin D:' => '비타민 D의 일일 평균 섭취량 :',
+    'Average daily intake of vitamin D during pregnancy:' => '임신 중 평균 비타민 D 섭취량 :',
+    'Average daily intake of vitamin D for lactation:' => '수유를위한 비타민 D의 일일 평균 섭취량 :',
+
+    'Average daily intake of vitamin D3:' => '비타민 D3의 일일 평균 섭취량 :',
+    'Average daily intake of vitamin D3 during pregnancy:' => '임신 중 비타민 D3의 평균 일일 섭취량 :',
+    'Average daily intake of vitamin D3 for lactation:' => '수유를위한 비타민 D3의 일일 평균 섭취량 :',
+
+    'Average daily intake of vitamin E:' => '비타민 E의 일일 평균 섭취량 :',
+    'Average daily intake of vitamin E during pregnancy:' => '임신 중 비타민 E의 일일 평균 섭취량 :',
+    'Average daily intake of vitamin E for lactation:' => '수유를위한 비타민 E의 일일 평균 섭취량 :',
+
+    'Average daily intake of vitamin B12:' => '비타민 B12의 평균 일일 섭취량 :',
+    'Average daily intake of vitamin B12 during pregnancy:' => '임신 중 비타민 B12의 평균 일일 섭취량 :',
+    'Average daily intake of vitamin B12 for lactation:' => '수유를위한 비타민 B12의 평균 일일 섭취량 :',
+    'Average daily intake of vitamin B12 during menopause:' => '폐경기 동안 비타민 B12의 평균 일일 섭취량 :',
+    'Average daily intake of vitamin B12 during hard work:' => '열심히 일하는 동안 비타민 B12의 평균 일일 섭취량 :',
+    'Average daily intake of vitamin B12 during intense turnings:' => '강렬한 회전 동안 비타민 B12의 평균 일일 섭취량 :',
+
+    'Average daily intake of vitamin Omega 3:' => '비타민 오메가 3의 평균 일일 섭취량 :',
+    'Average daily intake of vitamin Omega 3 during pregnancy:' => '임신 중 비타민 오메가 3의 평균 일일 섭취량 :',
+    'Average daily intake of vitamin Omega 3 for lactation:' => '수유를위한 비타민 오메가 3의 평균 일일 섭취량 :',
+    'Average daily intake of vitamin Omega 3 during hard work:' => '열심히 일하는 동안 비타민 오메가 3의 평균 일일 섭취량 :',
+    'Average daily intake of vitamin Omega 3 during intense turnings:' => '강렬한 회전 동안 비타민 오메가 3의 평균 일일 섭취량 :',
+
+    'Average daily intake of Zinc:' => '아연의 일일 평균 섭취량 :',
+    'Average daily intake of Zinc during pregnancy:' => '임신 중 아연의 일일 평균 섭취량 :',
+    'Average daily intake of Zinc for lactation:' => '수유를위한 아연의 일일 평균 섭취량 :',
+
+    'Average daily intake of Iodine:' => '요오드의 일일 평균 섭취량 :',
+    'Average daily intake of Iodine during pregnancy:' => '임신 중 평균 요오드 섭취량 :',
+    'Average daily intake of Iodine for lactation:' => '수유를위한 평균 요오드 섭취량 :',
+    'Average daily intake of Iodine during intense turnings:' => '강렬한 회전 동안 요오드의 평균 일일 섭취량 :',
+
+    'Average daily intake of Magnesium:' => '마그네슘의 일일 평균 섭취량 :',
+    'Average daily intake of Magnesium during pregnancy:' => '임신 중 마그네슘의 일일 평균 섭취량 :',
+    'Average daily intake of Magnesium for lactation:' => '수유를위한 마그네슘의 평균 일일 섭취량 :',
+
+    'Average daily intake of Potassium:' => '칼륨의 일일 평균 섭취량 :',
+    'Average daily intake of Potassium during pregnancy:' => '임신 중 칼륨의 평균 일일 섭취량 :',
+    'Average daily intake of Potassium for lactation:' => '수유를위한 칼륨의 일일 평균 섭취량 :',
+    'Average daily intake of Potassium during intense turnings:' => '강렬한 회전 동안 칼륨의 평균 일일 섭취량 :',
+
+    'Average daily intake of Calcium:' => '칼슘의 일일 평균 섭취량 :',
+    'Average daily intake of Calcium during pregnancy:' => '임신 중 칼슘의 일일 평균 섭취량 :',
+    'Average daily intake of Calcium for lactation:' => '수유를위한 칼슘의 일일 평균 섭취량 :',
+
+    'Average daily intake of Folic Acid:' => '엽산의 평균 일일 섭취량 :',
+    'Average daily intake of Folic Acid during pregnancy:' => '임신 중 엽산의 평균 일일 섭취량 :',
+    'Average daily intake of Folic Acid for lactation:' => '수유를위한 엽산의 일일 평균 섭취량 :',
+
+
+    'Average heart rate:' => '평균 심박수 :',
+    'Average heart rate in a dream:' => '꿈의 평균 심박수 :',
+    'First trimester average heart rate (1-13 weeks):' => '임신 1 기 평균 심박수 (1-13 주) :',
+    'Second trimester average heart rate (14-26 weeks):' => '두 번째 임신 평균 심박수 (14-26 주) :',
+    'Third trimester average heart rate (27-40 weeks):' => '세 번째 임신 평균 심박수 (27-40 주) :',
+    'Average heart rate when walking in men:' => '남성에서 걸을 때의 평균 심박수 :',
+    'Average heart rate when walking in women:' => '여성을 걸을 때의 평균 심박수 :',
+    'Average heart rate during training:' => '훈련 중 평균 심박수 :',
+
+    'middle:' => '가운데:',
+    'minimum:' => '최저한의:',
+    'maximum:' => '최고:',
+
+    '30 minutes:' => '30 분:',
+    '60 minutes:' => '60 분 :',
+    '90 minutes:' => '90 분 :',
+    '120 minutes:' => '120 분 :',
+
+    'warm up:' => '워밍업 :',
+    'easy activity:' => '쉬운 활동 :',
+    'average activity:' => '평균 활동 :',
+    'intense load:' => '강렬한 하중 :',
+    'increased load:' => '증가 된 부하 :',
+    'maximum load:' => '최대 하중:',
+
+    'Average blood pressure in men:' => '남성의 평균 혈압 :',
+    'Average blood pressure in women:' => '여성의 평균 혈압 :',
+    'Up to 4 weeks of the first trimester:' => '첫 삼 분기 최대 4 주 :',
+    'Up to 12 weeks of the first trimester:' => '첫 삼 분기 최대 12 주 :',
+    'Up to 26 weeks (second trimester):' => '최대 26 주 (두 번째 임신) :',
+    'Up to 29 weeks (beginning of the third trimester):' => '최대 29 주 (3 학기 시작) :',
+    'Up to 30 weeks of the third trimester:' => '세 번째 삼 분기 최대 30 주 :',
+    'Up to 40 weeks (delivery):' => '최대 40 주 (배달) :',
+
+    'Average eye pressure in men:' => '남성의 평균 안압 :',
+    'Average eye pressure in women:' => '여성의 평균 안압 :',
+
+    'Physique:' => '체:',
+    'Normosthenic' => 'Normosthenic',
+    'Hypersthenic' => '과민성',
+    'Asthenic' => '무력',
+
+    'Average weight rate:' => '평균 체중 :',
+    'Average weight according to Brock formula:' => 'Brock 공식에 따른 평균 무게 :',
+    'Average weight according to Nagler formula:' => '나글러 공식에 따른 평균 무게 :',
+    'Average leg length:' => '평균 다리 길이 :',
+    'Average leg length relative to physique:' => '체격을 기준으로 한 평균 다리 길이 :',
+
+    'Average height for this age:' => '이 연령의 평균 키 :',
+    'Average weight for this age:' => '이 연령의 평균 체중 :',
+    'Average head size for this age:' => '이 연령대의 평균 머리 크기 :',
+
+    'Average height for boys:' => '소년의 평균 신장 :',
+    'Average height for girls:' => '소녀의 평균 신장 :',
+    'small:' => '작은:',
+    'tall:' => '긴:',
+
+    'Average humidity rate:' => '평균 습도 :',
+    'Average humidity rate for growing plants:' => '재배 식물의 평균 습도 :',
+    'Average humidity rate where you spend time:' => '시간을 보내는 평균 습도 :',
+    'Average winter humidity rate:' => '평균 겨울 습도 :',
+    'Average summer humidity rate:' => '평균 여름 습도 :',
+    'Average humidity rate for childrens:' => '어린이의 평균 습도 :',
+    'Average humidity for the apartment:' => '아파트의 평균 습도 :',
+    'For the bedroom:' => '침실 :',
+    'In the kitchen:' => '부엌에서:',
+    'In the office:' => '사무실에서 :',
+    'Children\'s playroom:' => '어린이 놀이방 :',
+    'In the shower or bath:' => '샤워 실 또는 욕조에서 :',
+    'For an entrance hall:' => '현관 :',
+    'Living room, guest room, lounge, dining room:' => '거실, 객실, 라운지, 식당 :',
+    'In the toilet, bathroom:' => '화장실에서 화장실 :',
+
+    'Average axillary temperature rate:' => '평균 액와 온도 :',
+    'Average oral temperature rate:' => '평균 구강 온도 속도 :',
+    'Average rectal temperature rate:' => '평균 직장 온도 속도 :',
+    'Average tympanic temperature rate:' => '평균 고열 온도 비율 :',
+    'Average internal organs temperature rate:' => '평균 내부 장기 온도 속도 :',
+
+
+    'Average amount of blood in a person:' => '사람의 평균 혈액량 :',
+    'Average amount of blood in a woman:' => '여성의 평균 혈액량 :',
+    'Average amount of blood in a woman during the third trimester of pregnancy:' => '임신 3 기 동안 여성의 평균 혈액량 :',
+    'Average amount of blood released during menstruation (5-7 days):' => '월경 중 방출되는 평균 혈액량 (5-7 일) :',
+    'Average amount of blood released during menstruation (1 day):' => '월경 중 방출 된 평균 혈액량 (1 일) :',
+    'Average amount of blood in a man:' => '남자의 평균 혈액량 :',
+
+    'Exercise time:' => '운동 시간 :',
+
+    'Average water consumption per day:' => '하루 평균 물 소비량 :',
+    'According to formula V=M/450*14:' => '공식 V = M / 450 * 14에 따르면 :',
+    'According to formula 4% of body weight:' => '체중의 공식 4 %에 따르면 :',
+    'According to formula 20 milliliters on 1 kilogram of body weight:' => '체중 1 킬로그램의 공식 20 밀리리터에 따르면 :',
+    'According to formula V=(M*0,03) + (T*0,4):' => '공식 V = (M * 0,03) + (T * 0,4)에 따르면 :',
+    'According to formula V=(M*0,04) + (T*0,6):' => '공식 V = (M * 0,04) + (T * 0,6)에 따르면 :',
+    '1 day:' => '1 일:',
+    '10 days:' => '10 일:',
+    '3 months:' => '3 개월:',
+    '6 months:' => '6 개월:',
+    '9 months:' => '9 개월 :',
+
+    'Average amount of water in body:' => '신체의 평균 물량 :',
+
+    'Season:' => '시즌:',
+    'Winter' => '겨울',
+    'Summer' => '여름',
+    'Average temperature optimal / acceptable:' => '평균 온도 최적 / 허용 :',
+    'Living room:' => '거실:',
+    'Living room in areas with temperatures below 31 degrees:' => '31도 이하의 온도에있는 거실 :',
+    'Kitchen:' => '부엌:',
+    'Restroom:' => '화장실:',
+    'Bathtub, WC:' => '욕조, 화장실 :',
+    'Recreation and training facilities:' => '레크리에이션 및 훈련 시설 :',
+    'Interroom corridor:' => '회의실 복도 :',
+    'Entrance Hall, staircase:' => '현관, 계단 :',
+    'Pantries:' => '식료품 저장실 :',
+
+
+    'Average temperature for childrens:' => '어린이의 평균 기온 :',
+    'Average temperature for pre school institutions optimal / acceptable:' => '취학 전 교육 기관의 평균 기온 :',
+    'Group locker room and toilet for younger groups' => '더 젊은 그룹을위한 그룹 탈의실 및 화장실',
+    'Group locker room and toilet for preschool groups' => '유치원 그룹을위한 그룹 탈의실 및 화장실',
+    'Sleeping for younger groups' => '더 젊은 그룹을 위해 자',
+    'Sleeping for preschool groups' => '유치원 그룹을 위해 자',
+    'Lobby, staircase' => '로비, 계단',
+    'Average temperature for sleep:' => '수면 평균 온도 :',
+    'Comfortable sleep temperature in pajamas and under the blankets:' => '잠옷과 담요 아래에서 편안한 수면 온도 :',
+    'Comfortable sleep temperature without pajamas and blankets:' => '잠옷과 담요가없는 편안한 수면 온도 :',
+    'Average temperature for newborns:' => '신생아의 평균 온도 :',
+    'Minimum water temperature:' => '최소 수온 :',
+    'Comfortable water temperature:' => '편안한 수온 :',
+    'Duration of swimming depending on water temperature:' => '수온에 따른 수영 시간 :',
+
+    'Your birthday:' => '생일:',
+    'Date of calculation:' => '계산 날짜 :',
+
+    'Basic biorhythms:' => '기본 생체 리듬 :',
+    'physical biorhythm:' => '물리적 생체 리듬 :',
+    'emotional biorhythm:' => '정서적 생체 리듬 :',
+    'intellectual biorhythm:' => '지적 바이오 리듬 :',
+    'Additional biorhythms:' => '추가 생체 리듬 :',
+    'spiritual biorhythm:' => '영적 생체 리듬 :',
+    'intuition biorhythm:' => '직관 생체 리듬 :',
+    'knowledge biorhythm:' => '지식 바이오 리듬 :',
+    'aesthetic biorhythm:' => '미적 생체 리듬 :',
+
+    'Average life expectancy of grandparents:' => '조부모의 평균 수명 :',
+    'What education do you have:' => '어떤 교육이 있습니까?',
+    'Academic degree' => '학사 학위',
+    'Higher education' => '고등 교육',
+    'Secondary education' => '중등 교육',
+    'Incomplete secondary education' => '불완전한 중등 교육',
+    'Employment:' => '고용:',
+    'Career prospects' => '경력 전망',
+    'Work in the specialty' => '전문 분야에서 일하십시오',
+    'Work not on a specialty' => '전문 분야가 아닌 작업',
+    'Shift work' => '교대 근무',
+    'Hobby:' => '취미:',
+    'Yes' => '예',
+    'Not' => '아니',
+    'Are you hot-tempered?:' => '당신은 뜨겁습니까? :',
+    'Living in accordance with your income?:' => '소득에 따라 생활하십니까? :',
+    'Do you have any pets?:' => '당신은 어떤 애완 동물을해야합니까?:',
+    'Do you have free time?:' => '당신은 자유 시간이 있습니까? :',
+    'You are working:' => '당신은 작업:',
+    '40 hours a week' => '일주일에 40 시간',
+    'Irregular working hours' => '비정규 근무 시간',
+    'Do you eat regularly?:' => '정기적으로 드십니까? :',
+    'Do you eat seafood?:' => '해산물을 먹습니까? :',
+    'Do you eat vegetables / fruits?:' => '야채 / 과일을 먹습니까? :',
+    'Do you drink a glass of wine a day?:' => '하루에 와인을 마십니까? :',
+    'Do you drink strong alcohol?:' => '당신은 강한 알코올을 마십니까? :',
+    'On holidays' => '휴일에',
+    'Regularly' => '정기적으로',
+    'Do you smoke?:' => '담배를 피우십니까?:',
+    'Do you play sports?:' => '당신은 스포츠를합니까? :',
+    'Sometimes' => '때때로',
+    'Do you walk?:' => '걷습니까? :',
+    'How much do you sleep?:' => '당신은 얼마나 자나요? :',
+    '5-9 hours' => '5-9 시간',
+    'less than 5 hours' => '5 시간 미만',
+    'more than 10 hours' => '10 시간 이상',
+    'Do you take sick leave?:' => '병가는 있습니까? :',
+    'Your pressure?:' => '당신의 압력? :',
+    'Norm' => '표준',
+    'Above norm' => '위의 규범',
+    'Below norm' => '규범 이하',
+    'Your weight?:' => '당신의 체중?:',
+    'Do you regularly undergo a medical examination?:' => '정기적으로 건강 진단을 받습니까? :',
+    'Is your gut working fine?:' => '장이 잘 작동합니까? :',
+    'Do you need sleeping pills or antidepressants?:' => '수면제 또는 항우울제가 필요하십니까? :',
+    'Average life expectancy:' => '평균 수명 :',
+
+
+    'Number of cigarettes per day:' => '하루 담배 수 :',
+    'Smoking experience, years:' => '흡연 경험, 년 :',
+    'Smoking index:' => '흡연 지수 :',
+    'If the smoking index is greater than 10, then this is a reliable risk factor for the development of chronic obstructive pulmonary disease.' => '흡연 지수가 10보다 크면 만성 폐쇄성 폐 질환의 발병에 대한 확실한 위험 요소입니다.',
+
+
+    'How soon after you wake up do you smoke your first cigarette?:' => '잠에서 깨 자마자 첫 담배를 피우십니까? :',
+    'During the first 5 minutes' => '처음 5 분 동안',
+    'Within 6-30 minutes' => '6-30 분 이내',
+    'Is it difficult for you to refrain from smoking in places where smoking is prohibited?:' => '흡연이 금지 된 곳에서는 흡연을 자제하기가 어렵습니까? :',
+    'Which cigarette can you easily refuse?:' => '어떤 담배를 쉽게 거부 할 수 있습니까? :',
+    'First cigarette in the morning' => '아침에 첫 담배',
+    'All other cigarettes' => '다른 모든 담배',
+    'How many cigarettes do you smoke per day?:' => '하루에 몇 개의 담배를 피우십니까? :',
+    '10 or less' => '10 이하',
+    '31 and more' => '31 이상',
+    'Do you smoke more often in the early hours of the morning after waking up than during the day?:' => '하루 중 깨어 난 후 이른 아침에 더 자주 담배를 ​​피우십니까? :',
+    'Do you smoke if you are very sick and forced to stay in bed all day?:' => '당신이 매우 아프고 하루 종일 침대에 머물러 있어야 담배를 피우십니까? :',
+    'Estimated smoking addiction:' => '예상 흡연 중독 :',
+
+    '0-2 - very weak dependence' => '0-2-매우 약한 의존성',
+    '3-4 - weak dependence' => '3-4-약한 의존성',
+    '5 - average dependence' => '5-평균 의존성',
+    '6-7 - high dependence' => '6-7-높은 의존성',
+    '8-10 - very high dependence' => '8-10-매우 높은 의존성',
+
+
+    'The cost of a pack of cigarettes:' => '담배 한 갑의 비용 :',
+    'How much nicotine is in a cigarette (milligrams):' => '담배에 들어있는 니코틴의 양 (밀리그램) :',
+    'The number of cigarettes smoked:' => '담배를 피우는 횟수 :',
+    'The number of packs of smoked cigarettes:' => '훈제 담배 팩 수 :',
+    'Amount of nicotine received:' => '받은 니코틴의 양 :',
+    'Total Cost:' => '총 비용 :',
+    'Cost for one year:' => '1 년간 비용 :',
+    'Cost for one month:' => '한 달 비용 :',
+    'Cost for one week:' => '일주일 비용 :',
+    'Cost per day:' => '일일 비용 :',
+
+
+    'Time after drinking alcohol (hours):' => '음주 후 시간 (시간) :',
+    'Drink 1 (%):' => '음료 1 (%) :',
+    'Drink 1 (milliliters):' => '음료 1 (밀리리터) :',
+    'Drink 2 (%):' => '음료 2 (%) :',
+    'Drink 2 (milliliters):' => '음료 2 (밀리리터) :',
+    'Drink 3 (%):' => '음료 3 (%) :',
+    'Drink 3 (milliliters):' => '음료 3 (밀리리터) :',
+    'Drink 4 (%):' => '음료 4 (%) :',
+    'Drink 4 (milliliters):' => '음료 4 (밀리리터) :',
+    'Alcohol (%):' => '알코올 (%) :',
+    'Urine alcohol concentration (%):' => '소변 알코올 농도 (%) :',
+    'Maximum alcohol removal time:' => '최대 알코올 제거 시간 :',
+    'Middle alcohol removal time:' => '중간 알코올 제거 시간 :',
+    'Minimum alcohol removal time:' => '최소 알코올 제거 시간 :',
+    'Stomach:' => '위:',
+    'Full' => '완전한',
+    'Empty' => '빈',
+    'less than 0.3 ‰ - lack of influence of alcohol' => '0.3 ‰ 미만-알코올의 영향이 없음',
+    'from 0.3 to 0.5 ‰ - slight effect of alcohol' => '0.3 ~ 0.5 ‰-알코올의 약간의 영향',
+    'from 0.5 to 1.5 ‰ - slight intoxication' => '0.5 ~ 1.5 ‰-약간의 중독',
+    'from 1.5 to 2.5 ‰ - medium intoxication' => '1.5 ~ 2.5 ‰-중간 중독',
+    'from 2.5 to 3.0 ‰ - severe intoxication' => '2.5 ~ 3.0 ‰-심한 중독',
+    'from 3.0 to 5.0 ‰ - severe alcohol poisoning, death may occur' => '3.0 ~ 5.0 ‰-심각한 알코올 중독으로 사망 할 수 있음',
+    'from 5.0 to 6.0 ‰ - fatal poisoning' => '5.0 ~ 6.0 ‰-치명적인 중독',
+
+    'seconds' => '초',
+    'hours' => '시간',
+    'days' => '일',
+    'years' => '연령',
+
+
+    // measures
+    'kilogram' => '킬로그램',
+    'kg' => '킬로그램',
+    'gram' => '그램',
+    'gm' => '그램',
+    'milligram' => '밀리그램',
+    'micrograms' => '마이크로 그램',
+
+
+    'centimeter' => '센티미터',
+    'cm' => '센티미터',
+
+    'liters' => '리터',
+
+    '{n,plural, one{# liter} few{# liters} other{# liters}}' => '{n,plural, one{# 리터} few{# 리터} other{# 리터}}',
+
+    '{n,plural, one{# piece} few{# pieces} other{# pieces}}' => '{n,plural, one{# 조각} few{# 조각} other{# 조각}}',
+
+    'minutes' => '의사록',
+];
+

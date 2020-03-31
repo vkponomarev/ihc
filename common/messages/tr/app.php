@@ -1,0 +1,467 @@
+<?php
+
+return [
+    // Турецкий
+    // Common -----------------
+    'Health' => 'Sağlık',
+    'Calculator' => 'Hesap makinesi',
+    'Home' => 'Ev',
+
+    'Name' => 'ad',
+    'Text' => 'Metin',
+    'Send' => 'Gönder',
+
+    'Result' => 'Sonuç',
+    'Calculate' => 'Hesaplamak',
+    'from' => 'itibaren',
+    'to' => 'için',
+    'Embed calculator' => 'Hesap makinesini yerleştir',
+    'Embed on your website' => 'Web sitenize gömün',
+    'Choose calculator:' => 'Hesap makinesini seçin:',
+    'Calculator title' => 'Hesap makinesi başlığı',
+
+    // Common -----------------
+
+    // footer -----------------
+    'Read' => 'Okuma',
+    'Help' => 'Yardım',
+    'Contacts' => 'İletişim',
+    'Cookie info' => 'Çerez bilgisi',
+    'Privacy policy' => 'Gizlilik Politikası',
+    'Translations' => 'Çeviriler',
+    'Donations' => 'Bağışlar',
+    'Write to us' => 'Bize yazın',
+    // footer -----------------
+
+
+
+    'Choose gender:' => 'Cinsiyet seçin:',
+    'Women' => 'Kadınlar',
+    'Men' => 'Erkekler',
+    'Weight (kilogram):' => 'Ağırlık (kilogram):',
+    'Height (centimeter):' => 'Yükseklik (santimetre):',
+    'Age:' => 'Yaş:',
+    'Age (1-80):' => 'Yaş (1-80):',
+    'Age (1-90):' => 'Yaş (1-90):',
+    'Age (18-90):' => 'Yaş (18-90):',
+    'Age in years:' => 'Yıl cinsinden yaş:',
+    'Age in months:' => 'Ay cinsinden yaş:',
+    'Age (12-17):' => 'Yaş (12-17):',
+
+
+
+    'Goal:' => 'Hedef:',
+
+    'Weight maintenance' => 'Ağırlık bakımı',
+    'Lose weight' => 'Kilo vermek',
+    'Gain muscle mass' => 'Kas kütlesi kazanın',
+
+    'Exercise stress:' => 'Egzersiz stresi:',
+
+    'Basic metabolism' => 'Temel metabolizma',
+    'Minimal or no physical exertion' => 'Minimum fiziksel efor',
+    'Fitness classes 3 times a week' => 'Fitness dersleri haftada 3 kez',
+    'Fitness classes 5 times a week' => 'Fitness dersleri haftada 5 kez',
+    'Intense physical activity 5 times a week' => 'Haftada 5 kez yoğun fiziksel aktivite',
+    'Every day fitness' => 'Her gün fitness',
+    'Intensively or twice daily every day' => 'Her gün yoğun veya günde iki kez',
+    'Daily exercise plus physical work' => 'Günlük egzersiz artı fiziksel çalışma',
+
+    'Weight maintenance according to Miffin St. Jeor formula:' => 'Miffin St.Jeor formülüne göre ağırlık bakımı:',
+    'Weight maintenance according to Harris Benedict formula:' => 'Harris Benedict formülüne göre ağırlık bakımı:',
+    'Loosing weight according to Miffin St. Jeor formula:' => 'Miffin St.Jeor formülüne göre kilo vermek:',
+    'Loosing weight according to Harris Benedict formula:' => 'Harris Benedict formülüne göre kilo vermek:',
+    'Weight gain according to Miffin St. Jeor formula:' => 'Miffin St. Jeor formülüne göre kilo alımı:',
+    'Weight gain according to Harris Benedict formula:' => 'Harris Benedict formülüne göre kilo alımı:',
+
+    'calories' => 'kalori',
+
+    'Weight maintenance 30% protein, 30% fat, 40% carbohydrate' => 'Ağırlık bakımı% 30 protein,% 30 yağ,% 40 karbonhidrat',
+    'Lose weight 45% protein, 35% fat, 20% carbohydrates' => 'Kilo vermek% 45 protein,% 35 yağ,% 20 karbonhidrat',
+    'Gain muscle mass 30% protein, 15% fat, 55% carbohydrates' => 'Kas kütlesi% 30 protein,% 15 yağ,% 55 karbonhidrat kazanın',
+
+    'Activity:' => 'Aktivite:',
+
+    'Brainwork' => 'Beyin çalışması',
+    'Light physical labor' => 'Hafif fiziksel emek',
+    'Average physical labor' => 'Ortalama fiziksel emek',
+    'Hard physical labor' => 'Zor fiziksel emek',
+    'Particularly hard physical labor' => 'Özellikle ağır fiziksel emek',
+
+    'Average protein intake according to weight:' => 'Ağırlığa göre ortalama protein alımı:',
+    'Daily intake protein according to imt for women:' => 'Kadınlar için IMT\'ye göre günlük alım proteini:',
+    'Daily intake protein according to imt for men:' => 'Erkekler için IMT\'ye göre günlük alım proteini:',
+    'Daily intake protein according to activity for women:' => 'Kadınlar için aktiviteye göre günlük alım proteini:',
+    'Daily intake protein according to activity for men:' => 'Erkekler için aktiviteye göre günlük alım proteini:',
+
+
+    'Exercise Time:' => 'Egzersiz zamanı:',
+
+    '1 hour' => '1 saat',
+    '2 hours' => '2 saat',
+    '3 hours' => '3 saat',
+    '4 hours' => '4 saat',
+
+    'Average water consumption:' => 'Ortalama su tüketimi:',
+
+    'Average nuts intake:' => 'Ortalama fındık alımı:',
+    'Walnut:' => 'Ceviz:',
+    'Pine nut:' => 'Çam fıstığı:',
+    'Cashew:' => 'Kaşu:',
+    'Pistachios:' => 'Antep fıstığı:',
+    'Peanut:' => 'Fıstık:',
+    'Almond:' => 'Badem:',
+    'Hazelnut:' => 'Fındık:',
+
+    'Average salt daily intake:' => 'Ortalama tuz günlük alımı:',
+
+    'Average sugar daily intake:' => 'Günlük ortalama şeker alımı:',
+    'Maximum sugar daily intake:' => 'Günlük maksimum şeker alımı:',
+
+    'Average iron daily intake:' => 'Günlük ortalama demir alımı:',
+    'Pregnant average iron daily intake:' => 'Gebe ortalama demir günlük alımı:',
+    'Smoke and alcohol users average iron daily intake:' => 'Duman ve alkol kullanıcıları günlük ortalama demir alımı:',
+
+    'Average daily intake of vitamin C:' => 'Ortalama günlük C vitamini alımı:',
+    'Average daily intake of vitamin C for colds:' => 'Soğuk algınlığı için günlük ortalama C vitamini alımı:',
+    'Average daily intake of vitamin C during pregnancy:' => 'Hamilelik sırasında günlük ortalama C vitamini alımı:',
+    'Average daily vitamin C intake for athletes:' => 'Sporcular için günlük ortalama C vitamini alımı:',
+    'Average daily intake of vitamin C for lactation:' => 'Laktasyon için günlük ortalama C vitamini alımı:',
+
+    'Average daily intake of vitamin D:' => 'Ortalama günlük D vitamini alımı:',
+    'Average daily intake of vitamin D during pregnancy:' => 'Hamilelik sırasında ortalama günlük D vitamini alımı:',
+    'Average daily intake of vitamin D for lactation:' => 'Laktasyon için günlük ortalama D vitamini alımı:',
+
+    'Average daily intake of vitamin D3:' => 'Ortalama günlük D3 vitamini alımı:',
+    'Average daily intake of vitamin D3 during pregnancy:' => 'Hamilelik sırasında ortalama günlük D3 vitamini alımı:',
+    'Average daily intake of vitamin D3 for lactation:' => 'Laktasyon için günlük ortalama D3 vitamini alımı:',
+
+    'Average daily intake of vitamin E:' => 'Ortalama günlük E vitamini alımı:',
+    'Average daily intake of vitamin E during pregnancy:' => 'Hamilelik sırasında günlük ortalama E vitamini alımı:',
+    'Average daily intake of vitamin E for lactation:' => 'Laktasyon için günlük ortalama E vitamini alımı:',
+
+    'Average daily intake of vitamin B12:' => 'Ortalama günlük B12 vitamini alımı:',
+    'Average daily intake of vitamin B12 during pregnancy:' => 'Hamilelik sırasında günlük ortalama B12 vitamini alımı:',
+    'Average daily intake of vitamin B12 for lactation:' => 'Laktasyon için günlük ortalama B12 vitamini alımı:',
+    'Average daily intake of vitamin B12 during menopause:' => 'Menopoz sırasında günlük ortalama B12 vitamini alımı:',
+    'Average daily intake of vitamin B12 during hard work:' => 'Sıkı çalışma sırasında günlük ortalama B12 vitamini alımı:',
+    'Average daily intake of vitamin B12 during intense turnings:' => 'Yoğun dönüşlerde günlük ortalama B12 vitamini alımı:',
+
+    'Average daily intake of vitamin Omega 3:' => 'Ortalama günlük Omega 3 vitamini alımı:',
+    'Average daily intake of vitamin Omega 3 during pregnancy:' => 'Hamilelik sırasında günlük ortalama Omega 3 alımı:',
+    'Average daily intake of vitamin Omega 3 for lactation:' => 'Laktasyon için günlük ortalama Omega 3 alımı:',
+    'Average daily intake of vitamin Omega 3 during hard work:' => 'Sıkı çalışma sırasında günlük ortalama Omega 3 vitamini alımı:',
+    'Average daily intake of vitamin Omega 3 during intense turnings:' => 'Yoğun dönüşlerde günlük ortalama Omega 3 alımı:',
+
+    'Average daily intake of Zinc:' => 'Günlük ortalama Çinko alımı:',
+    'Average daily intake of Zinc during pregnancy:' => 'Hamilelik sırasında günlük ortalama Çinko alımı:',
+    'Average daily intake of Zinc for lactation:' => 'Laktasyon için günlük ortalama Çinko alımı:',
+
+    'Average daily intake of Iodine:' => 'Ortalama günlük iyot alımı:',
+    'Average daily intake of Iodine during pregnancy:' => 'Hamilelik sırasında ortalama günlük iyot alımı:',
+    'Average daily intake of Iodine for lactation:' => 'Laktasyon için günlük ortalama iyot alımı:',
+    'Average daily intake of Iodine during intense turnings:' => 'Yoğun dönüşlerde günlük ortalama iyot alımı:',
+
+    'Average daily intake of Magnesium:' => 'Ortalama günlük Magnezyum alımı:',
+    'Average daily intake of Magnesium during pregnancy:' => 'Hamilelik sırasında günlük ortalama Magnezyum alımı:',
+    'Average daily intake of Magnesium for lactation:' => 'Laktasyon için ortalama günlük Magnezyum alımı:',
+
+    'Average daily intake of Potassium:' => 'Ortalama günlük Potasyum alımı:',
+    'Average daily intake of Potassium during pregnancy:' => 'Hamilelik sırasında günlük ortalama Potasyum alımı:',
+    'Average daily intake of Potassium for lactation:' => 'Laktasyon için günlük ortalama Potasyum alımı:',
+    'Average daily intake of Potassium during intense turnings:' => 'Yoğun dönüşlerde günlük ortalama Potasyum alımı:',
+
+    'Average daily intake of Calcium:' => 'Ortalama günlük Kalsiyum alımı:',
+    'Average daily intake of Calcium during pregnancy:' => 'Hamilelik sırasında günlük ortalama Kalsiyum alımı:',
+    'Average daily intake of Calcium for lactation:' => 'Laktasyon için günlük ortalama Kalsiyum alımı:',
+
+    'Average daily intake of Folic Acid:' => 'Günlük ortalama Folik Asit alımı:',
+    'Average daily intake of Folic Acid during pregnancy:' => 'Hamilelik sırasında ortalama günlük Folik Asit alımı:',
+    'Average daily intake of Folic Acid for lactation:' => 'Laktasyon için günlük ortalama Folik Asit alımı:',
+
+
+    'Average heart rate:' => 'Ortalama kalp atış hızı:',
+    'Average heart rate in a dream:' => 'Bir rüyadaki ortalama kalp atış hızı:',
+    'First trimester average heart rate (1-13 weeks):' => 'İlk üç aylık ortalama kalp atış hızı (1-13 hafta):',
+    'Second trimester average heart rate (14-26 weeks):' => 'İkinci trimester ortalama kalp atış hızı (14-26 hafta):',
+    'Third trimester average heart rate (27-40 weeks):' => 'Üçüncü trimester ortalama kalp atış hızı (27-40 hafta):',
+    'Average heart rate when walking in men:' => 'Erkeklerde yürürken ortalama kalp atış hızı:',
+    'Average heart rate when walking in women:' => 'Kadınlarda yürürken ortalama kalp atış hızı:',
+    'Average heart rate during training:' => 'Egzersiz sırasında ortalama kalp atış hızı:',
+
+    'middle:' => 'orta:',
+    'minimum:' => 'asgari:',
+    'maximum:' => 'maksimum:',
+
+    '30 minutes:' => '30 dakika:',
+    '60 minutes:' => '60 dakika:',
+    '90 minutes:' => '90 dakika:',
+    '120 minutes:' => '120 dakika:',
+
+    'warm up:' => 'ısınmak:',
+    'easy activity:' => 'kolay aktivite:',
+    'average activity:' => 'ortalama aktivite:',
+    'intense load:' => 'yoğun yük:',
+    'increased load:' => 'artan yük:',
+    'maximum load:' => 'maksimum yük:',
+
+    'Average blood pressure in men:' => 'Erkeklerde ortalama kan basıncı:',
+    'Average blood pressure in women:' => 'Kadınlarda ortalama kan basıncı:',
+    'Up to 4 weeks of the first trimester:' => 'İlk üç aylık döneme kadar 4 hafta:',
+    'Up to 12 weeks of the first trimester:' => 'İlk üç aylık döneme kadar 12 hafta:',
+    'Up to 26 weeks (second trimester):' => '26 haftaya kadar (ikinci üç aylık dönem):',
+    'Up to 29 weeks (beginning of the third trimester):' => '29 haftaya kadar (üçüncü üç aylık dönemin başlangıcı):',
+    'Up to 30 weeks of the third trimester:' => 'Üçüncü üç aylık döneme kadar 30 haftaya kadar:',
+    'Up to 40 weeks (delivery):' => '40 haftaya kadar (teslimat):',
+
+    'Average eye pressure in men:' => 'Erkeklerde ortalama göz basıncı:',
+    'Average eye pressure in women:' => 'Kadınlarda ortalama göz basıncı:',
+
+    'Physique:' => 'Fizik:',
+    'Normosthenic' => 'Normosthenic',
+    'Hypersthenic' => 'Hypersthenic',
+    'Asthenic' => 'Astenik',
+
+    'Average weight rate:' => 'Ortalama ağırlık oranı:',
+    'Average weight according to Brock formula:' => 'Brock formülüne göre ortalama ağırlık:',
+    'Average weight according to Nagler formula:' => 'Nagler formülüne göre ortalama ağırlık:',
+    'Average leg length:' => 'Ortalama bacak uzunluğu:',
+    'Average leg length relative to physique:' => 'Fiziğe göre ortalama bacak uzunluğu:',
+
+    'Average height for this age:' => 'Bu yaş için ortalama yükseklik:',
+    'Average weight for this age:' => 'Bu yaş için ortalama ağırlık:',
+    'Average head size for this age:' => 'Bu yaş için ortalama kafa büyüklüğü:',
+
+    'Average height for boys:' => 'Erkekler için ortalama yükseklik:',
+    'Average height for girls:' => 'Kızlar için ortalama yükseklik:',
+    'small:' => 'küçük:',
+    'tall:' => 'uzun boylu:',
+
+    'Average humidity rate:' => 'Ortalama nem oranı:',
+    'Average humidity rate for growing plants:' => 'Büyüyen bitkiler için ortalama nem oranı:',
+    'Average humidity rate where you spend time:' => 'Zaman harcadığınız ortalama nem oranı:',
+    'Average winter humidity rate:' => 'Ortalama kış nem oranı:',
+    'Average summer humidity rate:' => 'Ortalama yaz nem oranı:',
+    'Average humidity rate for childrens:' => 'Çocuklar için ortalama nem oranı:',
+    'Average humidity for the apartment:' => 'Daire için ortalama nem:',
+    'For the bedroom:' => 'Yatak odası için:',
+    'In the kitchen:' => 'Mutfakta:',
+    'In the office:' => 'Ofiste:',
+    'Children\'s playroom:' => 'Çocuk oyun odası:',
+    'In the shower or bath:' => 'Duşta veya banyoda:',
+    'For an entrance hall:' => 'Bir giriş holü için:',
+    'Living room, guest room, lounge, dining room:' => 'Oturma odası, misafir odası, salon, yemek odası:',
+    'In the toilet, bathroom:' => 'Tuvalette, banyoda:',
+
+    'Average axillary temperature rate:' => 'Ortalama aksiller sıcaklık oranı:',
+    'Average oral temperature rate:' => 'Ortalama oral sıcaklık oranı:',
+    'Average rectal temperature rate:' => 'Ortalama rektal sıcaklık oranı:',
+    'Average tympanic temperature rate:' => 'Ortalama timpanik sıcaklık oranı:',
+    'Average internal organs temperature rate:' => 'Ortalama iç organlar sıcaklık oranı:',
+
+
+    'Average amount of blood in a person:' => 'Bir kişide ortalama kan miktarı:',
+    'Average amount of blood in a woman:' => 'Bir kadında ortalama kan miktarı:',
+    'Average amount of blood in a woman during the third trimester of pregnancy:' => 'Gebeliğin üçüncü üç aylık döneminde bir kadında ortalama kan miktarı:',
+    'Average amount of blood released during menstruation (5-7 days):' => 'Menstrüasyon sırasında salınan ortalama kan miktarı (5-7 gün):',
+    'Average amount of blood released during menstruation (1 day):' => 'Menstrüasyon sırasında salınan ortalama kan miktarı (1 gün):',
+    'Average amount of blood in a man:' => 'Bir erkekte ortalama kan miktarı:',
+
+    'Exercise time:' => 'Egzersiz zamanı:',
+
+    'Average water consumption per day:' => 'Günlük ortalama su tüketimi:',
+    'According to formula V=M/450*14:' => 'Formül V = M / 450 * 14\'e göre:',
+    'According to formula 4% of body weight:' => 'Formül vücut ağırlığının% 4\'üne göre:',
+    'According to formula 20 milliliters on 1 kilogram of body weight:' => '1 kilogram vücut ağırlığı üzerinde 20 mililitre formülüne göre:',
+    'According to formula V=(M*0,03) + (T*0,4):' => 'Formül V = (M * 0,03) + (T * 0,4) uyarınca:',
+    'According to formula V=(M*0,04) + (T*0,6):' => 'Formül V = (M * 0,04) + (T * 0,6) uyarınca:',
+    '1 day:' => '1 gün:',
+    '10 days:' => '10 gün:',
+    '3 months:' => '3 ay:',
+    '6 months:' => '6 ay:',
+    '9 months:' => '9 ay:',
+
+    'Average amount of water in body:' => 'Vücuttaki ortalama su miktarı:',
+
+    'Season:' => 'Mevsim:',
+    'Winter' => 'Kış',
+    'Summer' => 'Yaz',
+    'Average temperature optimal / acceptable:' => 'Ortalama sıcaklık optimal / kabul edilebilir:',
+    'Living room:' => 'Oturma odası:',
+    'Living room in areas with temperatures below 31 degrees:' => '31 derecenin altındaki sıcaklıklarda oturma odası:',
+    'Kitchen:' => 'Mutfak:',
+    'Restroom:' => 'Tuvalet:',
+    'Bathtub, WC:' => 'Küvet, WC:',
+    'Recreation and training facilities:' => 'Dinlenme ve eğitim tesisleri:',
+    'Interroom corridor:' => 'Odalararası koridor:',
+    'Entrance Hall, staircase:' => 'Giriş Holü, merdiven:',
+    'Pantries:' => 'Pantries:',
+
+
+    'Average temperature for childrens:' => 'Çocuklar için ortalama sıcaklık:',
+    'Average temperature for pre school institutions optimal / acceptable:' => 'Okul öncesi kurumlar için ortalama sıcaklık optimal / kabul edilebilir:',
+    'Group locker room and toilet for younger groups' => 'Genç grupları için grup soyunma odası ve tuvalet',
+    'Group locker room and toilet for preschool groups' => 'Grup soyunma odası ve okul öncesi gruplar için tuvalet',
+    'Sleeping for younger groups' => 'Genç gruplar için uyku',
+    'Sleeping for preschool groups' => 'Okul öncesi gruplar için uyku',
+    'Lobby, staircase' => 'Lobi, merdiven',
+    'Average temperature for sleep:' => 'Uyku için ortalama sıcaklık:',
+    'Comfortable sleep temperature in pajamas and under the blankets:' => 'Pijamalarda ve battaniyelerin altında rahat uyku sıcaklığı:',
+    'Comfortable sleep temperature without pajamas and blankets:' => 'Pijama ve battaniye olmadan rahat uyku sıcaklığı:',
+    'Average temperature for newborns:' => 'Yenidoğanlarda ortalama sıcaklık:',
+    'Minimum water temperature:' => 'Minimum su sıcaklığı:',
+    'Comfortable water temperature:' => 'Rahat su sıcaklığı:',
+    'Duration of swimming depending on water temperature:' => 'Su sıcaklığına bağlı olarak yüzme süresi:',
+
+    'Your birthday:' => 'Doğum günün:',
+    'Date of calculation:' => 'Hesaplama tarihi:',
+
+    'Basic biorhythms:' => 'Temel biyoritmler:',
+    'physical biorhythm:' => 'fiziksel biyoritm:',
+    'emotional biorhythm:' => 'duygusal biyoritm:',
+    'intellectual biorhythm:' => 'entelektüel biyoritm:',
+    'Additional biorhythms:' => 'Ek biyoritmler:',
+    'spiritual biorhythm:' => 'manevi biorhythm:',
+    'intuition biorhythm:' => 'sezgi biorhythm:',
+    'knowledge biorhythm:' => 'bilgi biyoritmi:',
+    'aesthetic biorhythm:' => 'estetik biyoritm:',
+
+    'Average life expectancy of grandparents:' => 'Büyükanne ve büyükbabanın ortalama yaşam beklentisi:',
+    'What education do you have:' => 'Hangi eğitime sahipsiniz?',
+    'Academic degree' => 'Akademik derece',
+    'Higher education' => 'Yüksek öğretim',
+    'Secondary education' => 'Orta öğretim',
+    'Incomplete secondary education' => 'Eksik orta öğretim',
+    'Employment:' => 'İş:',
+    'Career prospects' => 'Kariyer olasılıkları',
+    'Work in the specialty' => 'Uzmanlıkta çalışma',
+    'Work not on a specialty' => 'Uzmanlık alanında çalışma',
+    'Shift work' => 'Vardiyalı çalışma',
+    'Hobby:' => 'Hobi:',
+    'Yes' => 'Evet',
+    'Not' => 'Değil',
+    'Are you hot-tempered?:' => 'Sıcak huylu musunuz ?:',
+    'Living in accordance with your income?:' => 'Gelirlerinize uygun olarak mı yaşıyorsunuz ?:',
+    'Do you have any pets?:' => 'Evcil hayvanın var mı?:',
+    'Do you have free time?:' => 'Boş vaktin var mı?:',
+    'You are working:' => 'Çalışıyorsun:',
+    '40 hours a week' => 'Haftada 40 saat',
+    'Irregular working hours' => 'Düzensiz çalışma saatleri',
+    'Do you eat regularly?:' => 'Düzenli olarak yer misin ?:',
+    'Do you eat seafood?:' => 'Deniz mahsulleri yer misin ?:',
+    'Do you eat vegetables / fruits?:' => 'Sebze / meyve yer misin ?:',
+    'Do you drink a glass of wine a day?:' => 'Günde bir bardak şarap içer misin ?:',
+    'Do you drink strong alcohol?:' => 'Güçlü alkol kullanıyor musunuz ?:',
+    'On holidays' => 'Tatillerde',
+    'Regularly' => 'düzenli olarak',
+    'Do you smoke?:' => 'Sigara içer misiniz?:',
+    'Do you play sports?:' => 'Spor yapıyor musun?:',
+    'Sometimes' => 'Ara sıra',
+    'Do you walk?:' => 'Yürür müsün?:',
+    'How much do you sleep?:' => 'Ne kadar uyuyorsun ?:',
+    '5-9 hours' => '5-9 saat',
+    'less than 5 hours' => '5 saatten az',
+    'more than 10 hours' => '10 saatten fazla',
+    'Do you take sick leave?:' => 'Hastalık izni alıyor musunuz ?:',
+    'Your pressure?:' => 'Baskılarınız ?:',
+    'Norm' => 'Norm',
+    'Above norm' => 'Norm üstü',
+    'Below norm' => 'Norm altı',
+    'Your weight?:' => 'Senin kilon?:',
+    'Do you regularly undergo a medical examination?:' => 'Düzenli olarak tıbbi muayeneden geçiyor musunuz ?:',
+    'Is your gut working fine?:' => 'Bağırsak iyi çalışıyor mu ?:',
+    'Do you need sleeping pills or antidepressants?:' => 'Uyku haplarına veya antidepresanlara ihtiyacınız var mı ?:',
+    'Average life expectancy:' => 'Ortalama yaşam beklentisi:',
+
+
+    'Number of cigarettes per day:' => 'Günde sigara sayısı:',
+    'Smoking experience, years:' => 'Sigara içme deneyimi, yıl:',
+    'Smoking index:' => 'Sigara içme endeksi:',
+    'If the smoking index is greater than 10, then this is a reliable risk factor for the development of chronic obstructive pulmonary disease.' => 'Sigara içme indeksi 10\'dan büyükse, bu kronik obstrüktif akciğer hastalığının gelişimi için güvenilir bir risk faktörüdür.',
+
+
+    'How soon after you wake up do you smoke your first cigarette?:' => 'Uyandıktan ne kadar süre sonra ilk sigaranızı içiyorsunuz ?:',
+    'During the first 5 minutes' => 'İlk 5 dakika boyunca',
+    'Within 6-30 minutes' => '6-30 dakika içinde',
+    'Is it difficult for you to refrain from smoking in places where smoking is prohibited?:' => 'Sigara içmenin yasak olduğu yerlerde sigara içmekten kaçınmak zor mu ?:',
+    'Which cigarette can you easily refuse?:' => 'Hangi sigarayı kolayca reddedebilirsiniz ?:',
+    'First cigarette in the morning' => 'Sabah ilk sigara',
+    'All other cigarettes' => 'Diğer tüm sigaralar',
+    'How many cigarettes do you smoke per day?:' => 'Günde kaç sigara içiyorsun ?:',
+    '10 or less' => '10 veya daha az',
+    '31 and more' => '31 ve daha fazlası',
+    'Do you smoke more often in the early hours of the morning after waking up than during the day?:' => 'Uyandıktan sonra sabahın erken saatlerinde güne göre daha sık sigara içiyor musunuz ?:',
+    'Do you smoke if you are very sick and forced to stay in bed all day?:' => 'Çok hasta ve bütün gün yatakta kalmak zorunda kalırsanız sigara içiyor musunuz ?:',
+    'Estimated smoking addiction:' => 'Tahmini sigara bağımlılığı:',
+
+    '0-2 - very weak dependence' => '0-2 - çok zayıf bağımlılık',
+    '3-4 - weak dependence' => '3-4 - zayıf bağımlılık',
+    '5 - average dependence' => '5 - ortalama bağımlılık',
+    '6-7 - high dependence' => '6-7 - yüksek bağımlılık',
+    '8-10 - very high dependence' => '8-10 - çok yüksek bağımlılık',
+
+
+    'The cost of a pack of cigarettes:' => 'Bir paket sigara maliyeti:',
+    'How much nicotine is in a cigarette (milligrams):' => 'Bir sigarada ne kadar nikotin (miligram):',
+    'The number of cigarettes smoked:' => 'Sigara içilen sigara sayısı:',
+    'The number of packs of smoked cigarettes:' => 'Füme sigaraların paket sayısı:',
+    'Amount of nicotine received:' => 'Alınan nikotin miktarı:',
+    'Total Cost:' => 'Toplam tutar:',
+    'Cost for one year:' => 'Bir yıllık maliyet:',
+    'Cost for one month:' => 'Bir aylık maliyet:',
+    'Cost for one week:' => 'Bir haftalık maliyet:',
+    'Cost per day:' => 'Günlük maliyet:',
+
+
+    'Time after drinking alcohol (hours):' => 'Alkol içtikten sonraki süre (saat):',
+    'Drink 1 (%):' => 'İçecek 1 (%):',
+    'Drink 1 (milliliters):' => 'İçecek 1 (mililitre):',
+    'Drink 2 (%):' => 'İçecek 2 (%):',
+    'Drink 2 (milliliters):' => 'İçecek 2 (mililitre):',
+    'Drink 3 (%):' => 'İçecek 3 (%):',
+    'Drink 3 (milliliters):' => 'İçecek 3 (mililitre):',
+    'Drink 4 (%):' => 'İçecek 4 (%):',
+    'Drink 4 (milliliters):' => 'İçecek 4 (mililitre):',
+    'Alcohol (%):' => 'Alkol (%):',
+    'Urine alcohol concentration (%):' => 'İdrar alkol konsantrasyonu (%):',
+    'Maximum alcohol removal time:' => 'Maksimum alkol çıkarma süresi:',
+    'Middle alcohol removal time:' => 'Orta alkol çıkarma süresi:',
+    'Minimum alcohol removal time:' => 'Minimum alkol çıkarma süresi:',
+    'Stomach:' => 'Mide:',
+    'Full' => 'Tam',
+    'Empty' => 'Boş',
+    'less than 0.3 ‰ - lack of influence of alcohol' => '0,3 ‰\'dan az - alkol etkisinin olmaması',
+    'from 0.3 to 0.5 ‰ - slight effect of alcohol' => '0.3 ila 0.5 ‰ - hafif alkol etkisi',
+    'from 0.5 to 1.5 ‰ - slight intoxication' => '0.5 ila 1.5 ‰ - hafif zehirlenme',
+    'from 1.5 to 2.5 ‰ - medium intoxication' => '1.5 ila 2.5 ‰ - orta derecede zehirlenme',
+    'from 2.5 to 3.0 ‰ - severe intoxication' => '2.5 ila 3.0 ‰ - şiddetli zehirlenme',
+    'from 3.0 to 5.0 ‰ - severe alcohol poisoning, death may occur' => '3.0 ila 5.0 ‰ - şiddetli alkol zehirlenmesi, ölüm meydana gelebilir',
+    'from 5.0 to 6.0 ‰ - fatal poisoning' => '5,0 ila 6,0 ‰ - ölümcül zehirlenme',
+
+    'seconds' => 'saniye',
+    'hours' => 'saatler',
+    'days' => 'günler',
+    'years' => 'yıl',
+
+
+    // measures
+    'kilogram' => 'kilogram',
+    'kg' => 'kilogram',
+    'gram' => 'gram',
+    'gm' => 'gram',
+    'milligram' => 'miligram',
+    'micrograms' => 'mikrogram',
+
+
+    'centimeter' => 'santimetre',
+    'cm' => 'santimetre',
+
+    'liters' => 'litre',
+
+    '{n,plural, one{# liter} few{# liters} other{# liters}}' => '{n,plural, one{# litre} few{# litre} other{# litre}}',
+
+    '{n,plural, one{# piece} few{# pieces} other{# pieces}}' => '{n,plural, one{# parça} few{# parça} other{# parça}}',
+
+    'minutes' => 'dakika',
+];
+
