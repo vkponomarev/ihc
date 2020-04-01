@@ -56,7 +56,7 @@ return [
                 '/embed' => 'embed/index',
                 '/cms/<url>' => 'cms/url',
                 '<action:(contact|login|logout|language|about|signup)>' => 'site/<action>',
-                '/script/translate' => 'script/translate',
+                //'/script/translate' => 'script/translate',
             ],
 
             'suffix'=>'/',
