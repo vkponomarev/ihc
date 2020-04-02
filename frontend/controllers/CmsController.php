@@ -26,24 +26,6 @@ class CmsController extends Controller
 
 
 
-    public function actionIndex()
-    {
-
-        echo 'Мы Тутииии';
-        $mainPagesData = new MainPagesData('index-1',0);
-
-        $mainPage = new MainPage();
-
-        return $this->render('index', [
-
-            'mainPageCategories' => $mainPage->mainPageCategories,
-
-        ]);
-
-    }
-
-
-
     public function actionUrl($url)
     {
 
