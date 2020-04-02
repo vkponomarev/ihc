@@ -10,7 +10,7 @@
 
     <div class="label-link" >
 
-        <a href="https://ihealthcalc.com/<?= Yii::$app->language ?>/" target="_blank">IHealthyCalc.com</a>
+        <a href="https://ihealthcalc.com/<?= Yii::$app->language ?>/" target="_blank">ihealthcalc.com</a>
 
     </div>
 <?php endif; ?>
